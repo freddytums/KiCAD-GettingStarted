@@ -678,7 +678,7 @@
         "uuid": "9cc72b08-ad7d-4d97-baba-2379e1bd8e58"
       }
     ],
-    "used_designators": "",
+    "used_designators": "SW1,#FLG3",
     "variants": []
   },
   "sheets": [
